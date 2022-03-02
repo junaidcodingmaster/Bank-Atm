@@ -1,6 +1,8 @@
 # Bank ATM
 This is a fake Bank ATM game for representing the uses of classes , default function of a class or default and other functions in a class. Made by [Junaid](https://abujuni.dev) .
 
+![Screenshort](https://i.ibb.co/Nr7JpBM/Screenshot-2022-03-02-230028.png)
+
 ## Index
 - [Installation](#installation)
 - [Quick Installation](#quick-installation)
