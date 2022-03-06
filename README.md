@@ -3,6 +3,12 @@ This is a fake Bank ATM game for representing the uses of classes , default func
 
 ![Screenshort](https://i.ibb.co/Nr7JpBM/Screenshot-2022-03-02-230028.png)
 
+Use this pin to access your account : `4568`
+```txt
+Enter Your User Name : Any Username or Any Name
+Enter Your Pin : 4568
+```
+
 ## Index
 - [Installation](#installation)
 - [Quick Installation](#quick-installation)
